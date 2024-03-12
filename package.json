@@ -1,0 +1,25 @@
+{
+  "name": "user_verification",
+  "version": "1.0.0",
+  "description": "check the user's presence in the list of Windows users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "faringet",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faringet/user_verification.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faringet/user_verification/issues"
+  },
+  "homepage": "https://github.com/faringet/user_verification#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "open": "^8.4.0"
+  }
+}
